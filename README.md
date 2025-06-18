@@ -1,4 +1,4 @@
-# Copilot 拡張 ハンズオン -Agents Builder-
+# Copilot 拡張 ハンズオン -Copilot Studio-
 
 # 目次
 - [事前準備](0-preparation.md)

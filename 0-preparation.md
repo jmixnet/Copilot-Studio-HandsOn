@@ -8,7 +8,7 @@
 
 | アカウント名 | メールアドレス | パスワード |
 |--------------|----------------|------------| 
-| user1<br>| user1@example.com | Password1!<br>|
+| user1| user1@example.com | Password1!|
 
 2. Microsoft EdgeまたはGoogle Chromeを起動します。
 
@@ -30,7 +30,7 @@
 ![image](image/00/image1.png)<br>
 > [!IMPORTANT]<br>
 > [演習2 Copilot Studio でエージェントを作成する (生成モード)](2-create-agent-generationmode.md)はプレビュー版の機能を利用するため、United States環境でのみ動作します。<br>
-> 誤って他のリージョンを選択した場合は、講師に連絡してください。<br>
+> このハンズオンでは事前に用意したUnited States環境を使います。<br>
 
 4. [Copilot Studio へようこそ!] というポップアップで、[スキップ] を選択します。
 <br>
